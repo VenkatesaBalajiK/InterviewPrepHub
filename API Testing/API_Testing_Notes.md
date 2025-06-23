@@ -1,3 +1,15 @@
+# 📚 API Testing Notes
+
+## 📇 Table of Contents
+
+- [📌 Lesson 1: What Is an API?](#-lesson-1-what-is-an-api)
+- [📌 Lesson 2: The Anatomy of a Request & Response](#-lesson-2-the-anatomy-of-a-request--response)
+- [📌 Lesson 3: HTTP Methods – CRUD Breakdown in Real-World APIs](#-lesson-3-http-methods--crud-breakdown-in-real-world-apis)
+- [📌 Lesson 4: Authentication and Authorization](#-lesson-4-authentication-and-authorization)
+- [📌 Lesson 7: Headers & Cookies in API Testing](#-lesson-7-headers--cookies-in-api-testing)
+- [📌 Glossary](#-glossay)
+- [📌 Summary](#-summary)
+
 ## 📌 **Lesson 1: What Is an API?**
 
 ### **API = Application Programming Interface.**
@@ -349,7 +361,7 @@ public void deleteUser() {
 3. Play with sending invalid payloads and observe how status codes behave.
 
 ---
-# 🔐  Lesson 4: **Authentication and Authorization**
+# 🔐 Lesson 4: **Authentication and Authorization**
 
 | 🔑 **Authentication**              | 🚦 **Authorization**                |
 | ---------------------------------- | ----------------------------------- |
@@ -1016,7 +1028,7 @@ given()
 
 ---
 
-### 🔚  Summary
+### 🔚 Summary
 
 | Term            | Meaning                                         | Example                              |
 | --------------- | ----------------------------------------------- | ------------------------------------ |

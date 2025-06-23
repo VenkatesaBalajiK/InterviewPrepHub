@@ -7,10 +7,10 @@
 5. [Sample Output](#-output-sample)
 6. [Assignment Tasks](#-your-assignment-optional-but-boss-move-if-you-do-it)
 7. [Headers & Cookies in Rest Assured](#-hands-on-headers--cookies-in-rest-assured)
-   - Sending Headers
-   - Getting Response Headers
-   - Sending Cookies
-   - Extracting Cookies
+      - Sending Headers
+      - Getting Response Headers
+      - Sending Cookies
+      - Extracting Cookies
 8. [Custom Header Generator - `HeaderUtil.java`](#-custom-header-generator-utility-class--headerutiljava)
 9. [Token Utility - `TokenUtil.java`](#-1-tokenutiljava)
 10. [Cookie Utility - `CookieUtil.java`](#-2-cookieutiljava)
@@ -19,11 +19,11 @@
 13. [Request Spec Builder - `RequestSpecBuilder.java`](#-requestspecbuilderjava--your-master-configurator)
 14. [Example Usage of RequestSpecBuilder](#-example-usage-in-your-test)
 15. [Response Validation](#-hands-on-response-validation-in-rest-assured)
-   - Status Code
-   - Body Content
-   - Headers
-   - Cookies
-   - Schema Validation
+      - Status Code(#-Status-Code-Validation)
+      - Body Content
+      - Headers
+      - Cookies
+      - Schema Validation
 16. [JSON Response Validation](#1-json-response-validation)
 17. [XML Response Validation](#2-xml-response-validation)
 18. [Advanced Concepts](#3-advanced-concepts-in-response-validation)
